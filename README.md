@@ -1,16 +1,12 @@
-# flashcards_app
+# Cartões de Piadas 🇧🇷
 
-A new Flutter project.
+Neste projeto utilizei o PageView.builder e dois textbutton's. Na arquivo model armazenei duas listas, uma lista com perguntas e outra contendo respostas da respectivas perquntas, assim as duas contem o mesmo tamanho. Projeto simples porem utilizei para entender um pouco mais sobre os PageView, um componente muito poderoso. Para animação utilizei o package FlipCard, muito interessante 
 
-## Getting Started
+# FlashCard Jokes 🇺🇸
 
-This project is a starting point for a Flutter application.
+In this project I used the PageView.builder and two textbutton's. In the model file I stored two lists, a list with questions and another containing answers to the respective questions, so they both contain the same size. Simple project but I used it to understand a little more about the PageView, a very powerful component. For animation I used the FlipCard package, very interesting.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Video APP
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/83305912/195386439-144e573d-3fce-4a55-bc71-b4f19b0ccdc1.mp4
